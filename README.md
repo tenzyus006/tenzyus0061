@@ -5,4 +5,4 @@ This is my custom profile. ML_Recommendation_System
 - Data Cleaning, Null/duplicates/Outliers/Correlation
 - Visualisation
 - Apply algorithme
-- Populatig results
+- Populating results
